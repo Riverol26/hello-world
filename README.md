@@ -1,3 +1,3 @@
 # hello-world
-Displays a simple message
+Displays a simple message\n
 That is basically it...
